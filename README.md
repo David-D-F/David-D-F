@@ -31,5 +31,5 @@
 
 #### Social 👥
 
-[![Linkedin]](https://www.linkedin.com/in/david-de-freitas-a85467206/)  
+[[Linkedin]](https://www.linkedin.com/in/david-de-freitas-a85467206/)  
 

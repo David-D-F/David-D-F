@@ -31,5 +31,5 @@
 
 #### Social 👥
 
-[![Linkedin](https://img.shields.io/badge/-De-Freitas%20David-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/david-de-freitas-a85467206/)  
+[![Linkedin]](https://www.linkedin.com/in/david-de-freitas-a85467206/)  
 

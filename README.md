@@ -25,6 +25,20 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## 1. Statistiques GitHub
+ ! [Statistiques de votre référentiel] https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true
+ ## 2. Langues les plus utilisées
+ ! [Statistiques de votre référentiel] https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green
+ ## 3. Badge des contributeurs
+ ! [Statistiques de votre référentiel] https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python
+ ## 4. Générateur de blagues aléatoires
+ ! [Carte de blagues] https://readme-jokes.vercel.app/api
+ ## 5. Compteur de vues de profil
+ ! [Compteur de vues de profil] https://komarev.com/ghpvc/?username=Tanu-N-Prabhu
+ ### Repository View Counter - HITS
+ ! [Hits] https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python
+
+
 ### IDEs & Editors
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)

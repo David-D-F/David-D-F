@@ -16,7 +16,7 @@
 ### Frameworks & Libraries
 
 ![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typeScript-323330?style=for-the-badge&logo=typescript.ts&logoColor=F7DF1E)
+![ts](https://badgen.net/badge/-/TypeScript/blue?icon=typescript&label)
 ![Node.JS](https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=ffffff)
 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)

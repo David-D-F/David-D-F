@@ -31,5 +31,5 @@
 
 #### Social 👥
 
-[![Linkedin](https://img.shields.io/badge/-Djadda%20Farid-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/david-de-freitas-a85467206/)  
+[![Linkedin](https://www.linkedin.com/in/david-de-freitas-a85467206/)  
 
